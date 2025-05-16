@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Samiha.
 #### I am a Data Analyst who turns raw numbers into meaningful insights, patterns and trends that drive smarter decisions ✨
-![I am a Data Analyst who turns raw numbers into meaningful insights, patterns and trends that drive smarter decisions ✨]
 
 I am a final-year Software Engineering student at Daffodil International University, majoring in Data Science. I have a strong passion for data-driven problem solving and machine learning 📊
 
