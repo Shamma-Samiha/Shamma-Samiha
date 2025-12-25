@@ -56,11 +56,30 @@ Git, GitHub, Streamlit, Jupyter, VS Code, Google Cloud
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamma-Samiha&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark&cache_seconds=1800)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Shamma-Samiha&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark"
+    alt="GitHub Stats"
+    height="150"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamma-Samiha&layout=compact&theme=github_dark&cache_seconds=1800)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamma-Samiha&layout=compact&theme=github_dark"
+    alt="Top Languages"
+    height="150"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shamma-Samiha&theme=github-dark)
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=Shamma-Samiha&theme=github-dark"
+    alt="GitHub Streak"
+    height="150"
+  />
+</p>
+
 
 
 
