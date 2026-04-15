@@ -53,8 +53,11 @@ I build **data-driven and AI-powered applications** that combine analytics, mach
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamma-Samiha&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamma-Samiha&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamma-Samiha&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,3 +74,11 @@ I build **data-driven and AI-powered applications** that combine analytics, mach
 📧 **shmmsamiha@gmail.com**  
 🔗 https://www.linkedin.com/in/shamma-samiha  
 🌐 https://shamma-samiha.github.io/Portfolio/
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/SQL-grey?logo=mysql" />
+  <img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi" />
+  <img src="https://img.shields.io/badge/FastAPI-green" />
+  <img src="https://img.shields.io/badge/LangChain-black" />
+</p>
