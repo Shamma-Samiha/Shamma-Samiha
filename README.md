@@ -1,61 +1,73 @@
-# Shamma Samiha  
-**Software Engineer | Data Analytics, Business Intelligence & Data-Driven Development**
+<h1 align="center">Hi 👋, I'm Shamma Samiha</h1>
+<h3 align="center">AI Engineer | Data Analyst | Machine Learning & LLM Applications</h3>
 
-I build **data-driven software products** that combine analytics, business intelligence, backend engineering, and full-stack development to solve real-world business problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamma-samiha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/Shamma-Samiha"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+  <a href="mailto:shmmsamiha@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
+</p>
 
-🎓 **B.Sc. in Software Engineering (Major: Data Science)**  
+---
+
+## 🚀 About Me
+I build **data-driven and AI-powered applications** that combine analytics, machine learning, and backend systems to solve real-world problems.
+
+🎓 B.Sc. in Software Engineering (Major: Data Science)  
 🏫 Daffodil International University  
 
-I work across the stack — from **data preparation and modeling** to **API development, dashboards, and user-facing applications** — with a strong interest in analytics-driven and ML-powered systems.
+💡 Focused on:
+- Machine Learning & AI Systems  
+- LLM Applications (RAG, embeddings, APIs)  
+- Data Analytics & Decision Intelligence  
 
 ---
 
-## 🔍 What I Do
-- Design and develop **data analytics & BI solutions** with meaningful KPIs  
-- Build **backend APIs** for analytics, ML, and data workflows  
-- Create **Power BI dashboards** for decision support and business insights  
-- Develop **full-stack applications** using modern web technologies  
-- Explore **LLM-powered tools** for automated analysis and insights  
+## 🧠 What I Do
+- 🤖 Build **ML models** for prediction & insights  
+- 🧩 Develop **LLM-powered applications (RAG, APIs)**  
+- 📊 Create **BI dashboards & analytics systems**  
+- ⚙️ Design **backend APIs for data workflows**  
+- 🌐 Build **full-stack applications**  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 📊 Data & Analytics
-Python, SQL, Pandas, NumPy, Power BI, DAX, SPSS, Google Trends  
+### 🤖 AI & ML
+`Machine Learning` `NLP` `LLMs` `RAG` `Embeddings` `Prompt Engineering`
 
-### 🤖 Machine Learning
-Regression & Classification, Feature Engineering, Model Evaluation (R², RMSE, F1)
+### 📊 Data
+`Python` `Pandas` `NumPy` `SQL` `Power BI` `DAX`
 
-### 🧩 Backend & Data Engineering
-FastAPI, Django REST Framework, REST APIs, ETL, Data Cleaning, Web Scraping, Authentication (JWT)
+### ⚙️ Backend
+`FastAPI` `Django REST` `REST APIs` `ETL` `JWT`
 
-### 🌐 Frontend & Full-Stack Development
-React, JavaScript (ES6+), HTML5, CSS3, MySQL
+### 🌐 Frontend
+`React` `JavaScript` `HTML` `CSS`
 
-### 🧰 Tools & Platforms
-Git, GitHub, Streamlit, Jupyter, VS Code, Google Cloud
-
----
-
-## 🎯 Professional Interests
-- Data Analytics & Business Intelligence  
-- Backend & Data-Driven Software Engineering  
-- Machine Learning & Applied AI  
-- LLM-powered analytics and automation tools  
-- Product-focused engineering roles  
+### 🧰 Tools
+`Git` `Streamlit` `Jupyter` `Google Cloud` `Docker` `LangChain`
 
 ---
 
-## 📬 Contact
-📧 Email: **shmmsamiha@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/shamma-samiha  
-🌐 Portfolio: https://shamma-samiha.github.io/Portfolio/  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shamma-Samiha&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamma-Samiha&theme=tokyonight" />
+</p>
 
 ---
 
+## 🎯 Interests
+- AI Engineering & Machine Learning  
+- Data Analytics & Decision Systems  
+- LLM Applications & RAG Systems  
+- Backend & Scalable Systems  
 
+---
 
-
-
-
+## 📬 Connect With Me
+📧 **shmmsamiha@gmail.com**  
+🔗 https://www.linkedin.com/in/shamma-samiha  
+🌐 https://shamma-samiha.github.io/Portfolio/
