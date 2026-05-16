@@ -73,7 +73,7 @@ I build **data-driven and AI-powered applications** that combine analytics, mach
 ## 📬 Connect With Me
 📧 **shmmsamiha@gmail.com**  
 🔗 https://www.linkedin.com/in/shamma-samiha  
-🌐 https://shamma-samiha.github.io/Portfolio/
+🌐 https://portfolio-of-shamma-samiha.vercel.app/
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?logo=python" />
